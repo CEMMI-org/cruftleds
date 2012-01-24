@@ -1,0 +1,18 @@
+Good things to run:
+
+python Quadratic.py Inf 1 1 1 1
+
+this one does some cool fadey stuff
+
+python CrazyColor.py Inf
+
+this one does flashing colors
+
+python TwinklePlusPlus.py Inf 10 100 0.5 0 0.8
+
+Does a nice purple random-twinkle pattern.
+0.5 0 0.8 are the RGB values for color
+
+python RollerCoaster.py Inf
+
+this does a white-light chase pattern down the length of the chain.

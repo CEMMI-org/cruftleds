@@ -1,0 +1,117 @@
+CGL2.py 900 0 -3 10
+CGL2.py 900 0 -3 2 4
+CGL2.py 900 0 -3 2 0.1
+CGL2.py 900 0 -3 10 0.1
+CGL2.py 900 0 -3 5 1 0.05
+CGL2.py 300 2 -2 20 1 1 0 0
+CGL2.py 900 2 -2 10 1 0.2 0.2 1
+CGL2.py 100 10 0 40 0.1 0.05
+CGL2.py 900 10 0.5 40 0.1 0.05
+CGL2.py 300 2 -2 20 1 0 1 0
+CGL2.py 300 2 -2 20 4 1 0 1
+TwinklePlusPlus.py  900 4 5 0.05
+TwinklePlusPlus.py  100 4 1 0.05
+TwinklePlusPlus.py  300 4 10 0.05
+TwinklePlusPlus.py  100 100  50 1
+TwinklePlusPlus.py  20 100 10 0.05
+cemmi.py 100
+Color.py 1 0 1 1
+Color.py 1 1 0 1
+Color.py 0 1 1 1
+Color.py 0 0 1 1
+Color.py 0 1 0 1
+Color.py 1 0 0 1
+CGL1.py 900 2 -2 10 4 -1
+CGL1.py 900 2 -2 10 1
+CGL1.py 900 2 -2 10 1 -1
+Quadratic.py 300
+Quadratic.py 300
+Color.py 10 0 0 1
+CGL2.py 900 0 -3 10
+CGL2.py 900 0 -3 2 4
+CGL2.py 900 0 -3 2 0.1
+CGL2.py 900 0 -3 10 0.1
+CGL2.py 900 0 -3 5 1 0.05
+CGL2.py 300 2 -2 20 1 1 0 0
+CGL2.py 900 2 -2 10 1 0.2 0.2 1
+CGL2.py 100 10 0 40 0.1 0.05
+CGL2.py 900 10 0.5 40 0.1 0.05
+CGL2.py 300 2 -2 20 1 0 1 0
+CGL2.py 300 2 -2 20 4 1 0 1
+TwinklePlusPlus.py  900 4 5 0.05
+TwinklePlusPlus.py  100 4 1 0.05
+TwinklePlusPlus.py  300 4 10 0.05
+TwinklePlusPlus.py  100 100  50 1
+TwinklePlusPlus.py  20 100 10 0.05
+cemmi.py 100
+Color.py 1 0 1 1
+Color.py 1 1 0 1
+Color.py 0 1 1 1
+Color.py 0 0 1 1
+Color.py 0 1 0 1
+Color.py 1 0 0 1
+CGL1.py 900 2 -2 10 4 -1
+CGL1.py 900 2 -2 10 1
+CGL1.py 900 2 -2 10 1 -1
+Quadratic.py 300
+Quadratic.py 300
+Color.py 10 0 0 1
+CGL2.py 900 0 -3 10
+CGL2.py 900 0 -3 2 4
+CGL2.py 900 0 -3 2 0.1
+CGL2.py 900 0 -3 10 0.1
+CGL2.py 900 0 -3 5 1 0.05
+CGL2.py 300 2 -2 20 1 1 0 0
+CGL2.py 900 2 -2 10 1 0.2 0.2 1
+CGL2.py 100 10 0 40 0.1 0.05
+CGL2.py 900 10 0.5 40 0.1 0.05
+CGL2.py 300 2 -2 20 1 0 1 0
+CGL2.py 300 2 -2 20 4 1 0 1
+TwinklePlusPlus.py  900 4 5 0.05
+TwinklePlusPlus.py  100 4 1 0.05
+TwinklePlusPlus.py  300 4 10 0.05
+TwinklePlusPlus.py  100 100  50 1
+TwinklePlusPlus.py  20 100 10 0.05
+cemmi.py 100
+Color.py 1 0 1 1
+Color.py 1 1 0 1
+Color.py 0 1 1 1
+Color.py 0 0 1 1
+Color.py 0 1 0 1
+Color.py 1 0 0 1
+CGL1.py 900 2 -2 10 4 -1
+CGL1.py 900 2 -2 10 1
+CGL1.py 900 2 -2 10 1 -1
+Quadratic.py 300
+Quadratic.py 300
+Color.py 10 0 0 1
+CGL2.py 900 0 -3 10
+CGL2.py 900 0 -3 2 4
+CGL2.py 900 0 -3 2 0.1
+CGL2.py 900 0 -3 10 0.1
+CGL2.py 900 0 -3 5 1 0.05
+CGL2.py 300 2 -2 20 1 1 0 0
+CGL2.py 900 2 -2 10 1 0.2 0.2 1
+CGL2.py 100 10 0 40 0.1 0.05
+CGL2.py 900 10 0.5 40 0.1 0.05
+CGL2.py 300 2 -2 20 1 0 1 0
+CGL2.py 300 2 -2 20 4 1 0 1
+TwinklePlusPlus.py  900 4 5 0.05
+TwinklePlusPlus.py  100 4 1 0.05
+TwinklePlusPlus.py  300 4 10 0.05
+TwinklePlusPlus.py  100 100  50 1
+TwinklePlusPlus.py  20 100 10 0.05
+cemmi.py 100
+Color.py 1 0 1 1
+Color.py 1 1 0 1
+Color.py 0 1 1 1
+Color.py 0 0 1 1
+Color.py 0 1 0 1
+Color.py 1 0 0 1
+CGL1.py 900 2 -2 10 4 -1
+CGL1.py 900 2 -2 10 1
+CGL1.py 900 2 -2 10 1 -1
+Quadratic.py 300
+Quadratic.py 300
+Color.py 10 0 0 1
+Color.py 1 0 0 0

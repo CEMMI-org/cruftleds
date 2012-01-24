@@ -1,0 +1,11 @@
+CGL2.py 100 2 -2 20 4 0.05
+CGL2.py 100 0 -3 10 1 0 0 
+CGL2.py 100 0 -3 2   4 0 0 1
+CGL2.py 100 2 -2 20 1 0 1 0
+CGL2.py 100 2 -2 20 4 1 0 1
+TwinklePlusPlus.py  900 4 5 0.05
+TwinklePlusPlus.py  100 4 1 0.05
+TwinklePlusPlus.py  300 4 10 0.05
+TwinklePlusPlus.py  100 100  50 1
+TwinklePlusPlus.py  100 100 10 0.05
+Ising_nuts.py
